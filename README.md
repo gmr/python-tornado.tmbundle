@@ -4,6 +4,8 @@
 
 You can install this bundle in TextMate 2 by opening the preferences and going to the bundles tab. After installation it will be automatically updated for you.
 
+If installing via git, simply do a git checkout, then double click on the Python Tornado.tmbundle icon in the finder and choose "Install."
+
 ## Version Support
 
 This bundle is only tested in TextMate 2. At the time of this commit, it worked in 2.0.0-alpha.9331. If you want to make it support more versions of TextMate, pull requests are desired.
