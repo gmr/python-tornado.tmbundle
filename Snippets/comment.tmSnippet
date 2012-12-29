@@ -2,12 +2,12 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>deleted</key>
-	<array>
-		<string>keyEquivalent</string>
-	</array>
-	<key>isDelta</key>
-	<true/>
+    <key>content</key>
+    <string>{% comment $1 %}</string>
+    <key>name</key>
+    <string>comment</string>
+    <key>scope</key>
+    <string>text.html.tornado</string>
 	<key>uuid</key>
 	<string>399AF33E-A65C-4472-9408-CFC2D74AC86C</string>
 </dict>
