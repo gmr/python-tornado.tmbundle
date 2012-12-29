@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>{% try %}
+$1
+{% except $2 %}
+$3
+{% finally %}
+$4
+{% end %}
+</string>
+	<key>name</key>
+	<string>try … except … finally</string>
+	<key>scope</key>
+	<string>text.html.tornado</string>
+	<key>uuid</key>
+	<string>0B9F5067-65A0-4B72-A950-6E9DB3BCD3C0</string>
+</dict>
+</plist>

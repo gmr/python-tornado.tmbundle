@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>{% for $1 in $2 %}
+  $3
+{% end %}</string>
+	<key>name</key>
+	<string>for</string>
+	<key>scope</key>
+	<string>text.html.tornado</string>
+	<key>uuid</key>
+	<string>DFA4BF0A-605C-4C2B-90D0-C98E492958FF</string>
+</dict>
+</plist>
