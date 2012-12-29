@@ -7,7 +7,7 @@
 	<key>contactName</key>
 	<string>Gavin M. Roy</string>
 	<key>description</key>
-	<string>Support for the &lt;a href="http://www.tornadoweb.org"&gt;Tornado web development framework&lt;/a&gt;'s template syntax.</string>
+	<string>Support for the &lt;a href="http://www.tornadoweb.org"&gt;Tornado&lt;/a&gt;'s template syntax.</string>
 	<key>name</key>
 	<string>Python Tornado</string>
 	<key>uuid</key>
