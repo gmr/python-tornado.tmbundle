@@ -2,9 +2,15 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>isDelta</key>
-	<true/>
+	<key>contactEmailRot13</key>
+	<string>tnivazebl@tznvy.pbz</string>
+	<key>contactName</key>
+	<string>Gavin M. Roy</string>
+	<key>description</key>
+	<string>Support for the &lt;a href="http://www.tornadoweb.org"&gt;Tornado web development framework&lt;/a&gt;'s template syntax.</string>
+	<key>name</key>
+	<string>Python Tornado</string>
 	<key>uuid</key>
-	<string>D3A3B672-2D07-44B7-B99E-038E35F35269</string>
+	<string>5B0C5AF2-DC37-432F-9931-682AD2EDFCDC</string>
 </dict>
 </plist>
