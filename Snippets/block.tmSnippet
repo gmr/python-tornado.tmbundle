@@ -2,15 +2,15 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-    <key>content</key>
+	<key>content</key>
 	<string>{% block $1 %}
 $2
 {% end %}</string>
 	<key>name</key>
-    <string>block</string>
-    <key>scope</key>
-    <string>text.html.tornado</string>
-    <key>uuid</key>
+	<string>block</string>
+	<key>scope</key>
+	<string>text.html.tornado</string>
+	<key>uuid</key>
 	<string>7C09E87E-F164-4351-A5A5-6A4BD49683B1</string>
 </dict>
 </plist>
